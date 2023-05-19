@@ -36,3 +36,12 @@ p {
   background-color: #e0afa0;
   border-color: #e0afa0;
 }
+
+.container {
+  width: 100%;
+}
+
+.row {
+  display: flex;
+  align-items: flex-end;
+}
