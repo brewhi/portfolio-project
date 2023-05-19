@@ -1,3 +1,38 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
+  color: #463f3a;
+}
+
+.hero {
+  margin: 0;
+  width: 100%;
+  height: 600px;
+  background-color: #f4f3ee;
+  text-align: center;
+  padding: 160px 0;
+}
+
+#home-icon {
+  font-size: 60px;
+}
+
+h1 {
+  font-size: 96px;
+}
+
+p {
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+.btn-primary {
+  padding: 10px;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus {
+  background-color: #e0afa0;
+  border-color: #e0afa0;
 }
