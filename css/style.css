@@ -18,11 +18,24 @@ body {
 
 h1 {
   font-size: 96px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
 }
 
 #intro-desc {
-  font-size: 30px;
-  font-weight: lighter;
+  font-size: 25px;
+  font-weight: 200;
+}
+
+#desc {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  font-style: oblique;
 }
 
 .btn-primary {
