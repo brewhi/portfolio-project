@@ -64,7 +64,7 @@ img {
 }
 
 .container {
-  margin: 0 auto;
+  margin: 60px;
   text-align: center;
 }
 
@@ -74,13 +74,19 @@ img {
 }
 
 #dinner-photo {
-  border: solid 1px #e0afa0;
   padding: 10px;
-  width: 300px;
+  width: 400px;
 }
 
 #about-desc {
   padding: 40px;
-  width: 600px;
   margin: 0 auto;
+}
+
+.about-container {
+  background-color: #f4f3ee;
+  width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 10px;
 }
