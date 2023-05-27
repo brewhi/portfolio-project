@@ -91,3 +91,18 @@ img {
   margin: 0 auto;
   border-radius: 10px;
 }
+
+#contact-title {
+  font-size: 65px;
+}
+
+#email-link {
+  text-decoration: none;
+  color: #463f3a;
+}
+
+.contact container {
+  text-align: center;
+  font-size: 96px;
+  margin: 0 auto;
+}
