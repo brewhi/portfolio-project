@@ -3,6 +3,36 @@ body {
   color: #463f3a;
 }
 
+.logo {
+  max-width: 100px;
+}
+nav {
+  padding: 20px 0;
+  background-color: #fdfdfd;
+}
+
+nav ul {
+  padding: 0;
+  margin: 0 30px;
+}
+nav li {
+  display: inline;
+  list-style: none;
+  line-height: 55px;
+  margin-left: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #463f3a;
+  transition: all 100ms ease-in-out;
+}
+
+nav a:hover,
+nav li.active a {
+  color: #f4f3ee;
+}
+
 .hero {
   margin: 0;
   width: 100%;
