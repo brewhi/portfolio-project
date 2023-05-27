@@ -126,7 +126,7 @@ img {
   font-size: 65px;
 }
 
-#email-link {
+#contact-link {
   text-decoration: none;
   color: #463f3a;
 }
@@ -135,4 +135,29 @@ img {
   text-align: center;
   font-size: 96px;
   margin: 0 auto;
+}
+
+footer .contact-box {
+  background-color: #e0afa0;
+  padding: 30px;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+#bottom-footer {
+  line-height: 65px;
+  padding: 20px;
+  background-color: #fdfdfd;
+  border-top: solid 2px #463f3a;
+}
+
+footer .footer-links {
+  margin: 0;
+  font-size: 20px;
+}
+
+#social-link {
+  text-decoration: none;
+  color: #463f3a;
+  padding: 10px;
 }
