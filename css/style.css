@@ -130,7 +130,7 @@ img {
 }
 
 #dinner-photo {
-  padding: 10px;
+  padding: 0;
   width: 400px;
   border-radius: 20px;
 }
