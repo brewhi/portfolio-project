@@ -163,6 +163,11 @@ img {
   color: #463f3a;
 }
 
+#contact-link:hover {
+  transition: all 300ms ease-in-out;
+  color: #e3f1f3;
+}
+
 .contact-container {
   text-align: center;
   font-size: 96px;
