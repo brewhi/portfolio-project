@@ -155,7 +155,12 @@ img {
 }
 
 #contact-title {
-  font-size: 65px;
+  font-size: 60px;
+}
+
+h3 {
+  font-size: 20px;
+  padding: 15px;
 }
 
 #contact-link {
