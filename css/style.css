@@ -135,6 +135,12 @@ img {
   border-radius: 20px;
 }
 
+.about-footer {
+  margin: 50px 0;
+  max-width: 100%;
+  padding: 0;
+}
+
 .work-container {
   max-width: fit-content;
 }
@@ -168,7 +174,7 @@ img {
   padding: 50px 150px;
   margin: 0 auto;
   border-radius: 10px;
-  max-width: 85%;
+  max-width: 90%;
   margin-bottom: 60px;
 }
 
