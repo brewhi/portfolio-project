@@ -96,7 +96,7 @@ p {
 
 .row {
   display: flex;
-  align-items: flex-end;
+  align-items: center;
 }
 
 #homepage-png {
