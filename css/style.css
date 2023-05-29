@@ -135,6 +135,10 @@ img {
   border-radius: 20px;
 }
 
+#divider-img {
+  margin: 0 auto;
+}
+
 .about-footer {
   margin: 50px 0;
   max-width: 100%;
